@@ -1,0 +1,6 @@
+{
+  "name": "StableMind AI",
+  "description": "An AI-powered treasury, compliance, payroll, and fraud intelligence platform for stablecoin businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
